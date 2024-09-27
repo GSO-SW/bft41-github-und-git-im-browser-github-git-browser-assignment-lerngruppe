@@ -2,7 +2,7 @@
 ### Übersicht:
 Der gegebene Code ist ein einfaches Programm, geschrieben in C#. Seine Hauptfunktion besteht darin, die Nachricht "Hello World" auf der Konsole anzuzeigen.
 
-### Code: https://github.com/GSO-SW/github-und-git-im-browser-GrosuDanut/commit/1316e7047aabd62588e0410097934f5b42912d6c#diff-0870b867914ebefe6c881a6fb7883424cfc22420a4475531319eb39ddc99ce1cR1
+### Code: 
 ```csharp
 Console.WriteLine("Hello World");
 ```
@@ -20,3 +20,4 @@ Wenn dieser Code ausgeführt wird, lautet die Ausgabe:
 ```csharp
 Hello World
 ```
+https://github.com/GSO-SW/github-und-git-im-browser-GrosuDanut/commit/69d5681ce3084df40630bfdedd5427a7fbf2ae7a#diff-0870b867914ebefe6c881a6fb7883424cfc22420a4475531319eb39ddc99ce1cR2
