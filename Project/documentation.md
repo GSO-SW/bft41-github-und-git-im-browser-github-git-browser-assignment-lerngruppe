@@ -20,4 +20,4 @@ Wenn dieser Code ausgeführt wird, lautet die Ausgabe:
 ```csharp
 Hello World
 ```
-https://github.com/GSO-SW/github-und-git-im-browser-GrosuDanut/commit/69d5681ce3084df40630bfdedd5427a7fbf2ae7a#diff-0870b867914ebefe6c881a6fb7883424cfc22420a4475531319eb39ddc99ce1cR2
+https://github.com/GSO-SW/github-und-git-im-browser-GrosuDanut/blob/41d48d0956d6f69bbdeb4411edcfcaa03533c3d5/Project/hello-world.cs
